@@ -1,0 +1,6 @@
+C:\Users\vinayagowda.patil\source\repos\TreadingSample\TreadingSample\bin\Debug\TreadingSample.exe.config
+C:\Users\vinayagowda.patil\source\repos\TreadingSample\TreadingSample\bin\Debug\TreadingSample.exe
+C:\Users\vinayagowda.patil\source\repos\TreadingSample\TreadingSample\bin\Debug\TreadingSample.pdb
+C:\Users\vinayagowda.patil\source\repos\TreadingSample\TreadingSample\obj\Debug\TreadingSample.csprojAssemblyReference.cache
+C:\Users\vinayagowda.patil\source\repos\TreadingSample\TreadingSample\obj\Debug\TreadingSample.exe
+C:\Users\vinayagowda.patil\source\repos\TreadingSample\TreadingSample\obj\Debug\TreadingSample.pdb
